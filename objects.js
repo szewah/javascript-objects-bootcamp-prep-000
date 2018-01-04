@@ -4,6 +4,3 @@ function updatePlaylist(obj, key, value) {
  return obj
 }
 
-function removeFromPlaylist(artist, song) {
-  
-}
