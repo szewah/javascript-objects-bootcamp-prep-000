@@ -4,4 +4,4 @@ function updatePlaylist(obj, key, value) {
  return obj
 }
 
-var newPlaylist = Object.assign({}, obj)
+function removeFromPlaylist()
