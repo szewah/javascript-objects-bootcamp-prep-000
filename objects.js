@@ -4,3 +4,4 @@ function updatePlaylist(obj, key, value) {
  return obj
 }
 
+var newPlaylist 
